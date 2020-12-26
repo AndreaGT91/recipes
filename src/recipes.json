@@ -1,0 +1,272 @@
+[
+  { "filename": "AngelRolls.jpg",
+    "title": "Angel Biscuits",
+    "source": "Grandmommie Bentley",
+    "sort": "biscuits-angel"
+  },
+  { "filename": "AppleSauceCake.jpg",
+    "title": "Applesauce Cake",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-applesauce"
+  },
+  { "filename": "BannannannaPudding.jpg",
+    "title": "Vanilla Wafer Banana Pudding",
+    "source": "Nilla Wafers Label",
+    "sort": "pudding-banana"
+  },
+  { "filename": "Biscuits.jpg",
+    "title": "Buttermilk Biscuits",
+    "source": "Grandmommie Bentley",
+    "sort": "biscuits-buttermilk"
+  },
+  { "filename": "BlackBeanSoup.doc",
+    "title": "Black Bean Soup",
+    "source": "Jeff Bentley",
+    "sort": "soup-bean-black"
+  },
+  { "filename": "Brownies.jpeg",
+    "title": "Chewy Brownies",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "brownies-chewy"
+  },
+  { "filename": "ButtRub.txt",
+    "title": "Southern Succor Rub",
+    "source": "The Virtual Weber Bullet - The Renowned Mr. Brown",
+    "sort": "ribs-rub-southern"
+  },
+  { "filename": "ChickenFricassee.jpeg",
+    "title": "Quick Chicken Fricassee",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "chicken-fricassee"
+  },
+  { "filename": "ChocolateCake.doc",
+    "title": "Chocolate Ice Cream Cake",
+    "source": "Andrea Bentley",
+    "sort": "cake-chocolate-icecream"
+  },
+  { "filename": "CreamCheeseFrosting.jpg",
+    "title": "Cream Cheese Frosting",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-frosting-creamcheese"
+  },
+  { "filename": "FluffyFrosting.jpg",
+    "title": "Fluffy Frosting",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-frosting-fluffy"
+  },
+  { "filename": "FluffyYellowLayerCake.pdf",
+    "title": "Fluffy Yellow Layer Cake",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "cake-yellow-fluffy"
+  },
+  { "filename": "FoolProofChocolateFrosting.pdf",
+    "title": "Foolproof Chocolate Frosting",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "cake-frosting-chocolate-foolproof"
+  },
+  { "filename": "FrenchFry1.pdf",
+    "title": "Easier French Fries, page 1",
+    "source": "Cooks's Illustrated Magazine",
+    "sort": "potatoes-fried1"
+  },
+  { "filename": "FrenchFry2.pdf",
+    "title": "Easier French Fries, page 2",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "potatoes-fried2"
+  },
+  { "filename": "FrenchToast.htm",
+    "title": "French Toast",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "toast-french"
+  },
+  { "filename": "HOLIDAY_.TXT",
+    "title": "Angel Biscuits (Holiday rolls)",
+    "source": "Jeff Bentley",
+    "sort": "biscuits-angel-holiday"
+  },
+  { "filename": "LeekPotatoSoup.jpeg",
+    "title": "Creamy Leek-Potato Soup",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "soup-potato-leek"
+  },
+  { "filename": "LimeCake.jpg",
+    "title": "Lime Cake",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-lime"
+  },
+  { "filename": "OatmealCookies.jpg",
+    "title": "Oatmeal Cookies",
+    "source": "Grandma Clarkson",
+    "sort": "cookies-oatmeal-raisin"
+  },
+  { "filename": "OatmealRaisin.doc",
+    "title": "Oatmeal Raisin Cookies",
+    "source": "Andrea Bentley",
+    "sort": "cookies-oatmeal-raisin"
+  },
+  { "filename": "Oatmealraisinmuffins.doc",
+    "title": "Oatmeal-Raisin Muffins",
+    "source": "unknown",
+    "sort": "muffins-oatmeal-raisin"
+  },
+  { "filename": "OvenFriedChicken.doc",
+    "title": "Oven Fried Chicken",
+    "source": "Betty Crocker Cookbook",
+    "sort": "chicken-fried-oven"
+  },
+  { "filename": "Pancakes.jpg",
+    "title": "Homemade Pancake Mix",
+    "source": "Grandmommie Bentley",
+    "sort": "pancakes"
+  },
+  { "filename": "PecanPie.jpg",
+    "title": "Pecan Pie",
+    "source": "Grandmommie Bentley",
+    "sort": "pie-pecan"
+  },
+  { "filename": "PineappleUpsideDown.jpg",
+    "title": "Pineapple Upside-Down Cake",
+    "source": "Dole Sliced Pineapple Label",
+    "sort": "cake-pineapple-upsidedown"
+  },
+  { "filename": "PizzaBianca.pdf",
+    "title": "Pizza Bianca",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "pizza-bianca"
+  },
+  { "filename": "PizzaCrust.jpg",
+    "title": "Pizza Dough",
+    "source": "Grandmommie Bentley",
+    "sort": "pizza-dough"
+  },
+  { "filename": "PizzaSauce.txt",
+    "title": "Pizza Sauce",
+    "source": "Jeff Bentley",
+    "sort": "pizza-sauce"
+  },
+  { "filename": "Polenta.jpeg",
+    "title": "Creamy Parmesan Polenta",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "polenta"
+  },
+  { "filename": "PotRoast.jpeg",
+    "title": "Classic Pot Roast",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "beef-potroast"
+  },
+  { "filename": "PotatoGalette.jpeg",
+    "title": "Potato Galette",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "potato-galette"
+  },
+  { "filename": "RibRub.txt",
+    "title": "Best Ribs In The Universe Rub",
+    "source": "The Virtual Weber Bullet - Mike Scrutchfield",
+    "sort": "ribs-rub-best"
+  },
+  { "filename": "RoastedPotatoes.htm",
+    "title": "Oven Roasted Potatoes",
+    "source": "allrecipes.com - JMRYGH",
+    "sort": "potatoes-roasted"
+  },
+  { "filename": "SCOTCHCA.DOC",
+    "title": "Scotch Cake (Chocolate) [Word]",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-chocolate-scotch"
+  },
+  { "filename": "SCOTCHCA.txt",
+    "title": "Scotch Cake (Chocolate) [text]",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-chocolate-scotch"
+  },
+  { "filename": "SausageStuffing.jpg",
+    "title": "Sausage Stuffing",
+    "source": "Grandmommie Bentley",
+    "sort": "stuffing-sausage"
+  },
+  { "filename": "SourCreamCake.jpg",
+    "title": "Sour Cream Cake",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-sourcream"
+  },
+  { "filename": "SpiceCookies.doc",
+    "title": "New and Improved Spice Cookies",
+    "source": "Grandma Clarkson/Andrea Bentley",
+    "sort": "cookies-spice"
+  },
+  { "filename": "StoveTopMacAndCheese.txt",
+    "title": "Stove Top Mac-n-Cheese",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "casserole-macncheese"
+  },
+  { "filename": "StrawberryCake.jpg",
+    "title": "Strawberry Cake",
+    "source": "Grandmommie Bentley",
+    "sort": "cake-strawberry"
+  },
+  { "filename": "Sweet-Potato-Casserole.doc",
+    "title": "Sweet Potato Casserole",
+    "source": "Grandmommie Bentley",
+    "sort": "casserole-sweetpotato"
+  },
+  { "filename": "TacoSeasoning.txt",
+    "title": "Taco Seasoning I",
+    "source": "allrecipes.com - BILL ECHOLS",
+    "sort": "seasoning-taco"
+  },
+  { "filename": "TrippleChocolateBiscotti.html",
+    "title": "Triple-Chocolate Biscotti",
+    "source": "Bon Appétit Magazine - Mary Tripoli",
+    "sort": "cookies-biscotti-chocolate"
+  },
+  { "filename": "VodkaPieDough.JPG",
+    "title": "Foolproof Pie Dough",
+    "source": "Cook's Illustrated Magazine",
+    "sort": "pie-dough"
+  },
+  { "filename": "WHITEBRE.TXT",
+    "title": "White Bread",
+    "source": "Grandpa Bentley/Jeff Bentley",
+    "sort": "bread-white"
+  },
+  { "filename": "asparagus.doc",
+    "title": "Roasted Asparagus",
+    "source": "unknown (Grandmommie Bentley?)",
+    "sort": "vegetable-asparagus-roasted"
+  },
+  { "filename": "blackbeansalad.txt",
+    "title": "Black Bean Salad",
+    "source": "unknown",
+    "sort": "salad-bean-black"
+  },
+  { "filename": "chickenSopa.jpg",
+    "title": "Chicken Sopa (casserole)",
+    "source": "unknown (Grandmommie Bentley?)",
+    "sort": "casserole-chicken-sopa"
+  },
+  { "filename": "granola.htm",
+    "title": "Granola",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "granola"
+  },
+  { "filename": "ribs.txt",
+    "title": "Who Loves Ya Baby-Back?",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "ribs-rub-wholovesya"
+  },
+  { "filename": "roastchicken.txt",
+    "title": "Broiled, Butterflied Chicken",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "chicken-roasted"
+  },
+  { "filename": "turkey.html",
+    "title": "Good Eats Roast Turkey [HTML]",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "turkey-roasted"
+  },
+  { "filename": "turkey.txt",
+    "title": "Good Eats Roast Turkey [text]",
+    "source": "foodnetwork.com - Alton Brown",
+    "sort": "turkey-roasted"
+  }
+]
