@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col, Card, CardColumns } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import recipeList from "./recipes.json";
+import recipeList from "./assets/recipes.json";
 
 function App() {
 
