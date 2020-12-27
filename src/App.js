@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Container, Row, Col, Card, CardColumns } from "react-bootstrap";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import recipeList from "./assets/recipes.json";
+import recipeList from "./recipes.json";
 
 function App() {
 
@@ -23,7 +23,7 @@ function App() {
       <CardColumns>
         {recipeList.map((recipe, index) => (
           <Card key={index} className="p-3" bg="dark">
-            <Card.Link href={`http://bentleytech.com/recipes/${recipe.filename}`} 
+            <Card.Link href={`http://bentleytech.com/recipes/assets/${recipe.filename}`} 
               target="_blank" rel="noopener noreferrer" style={{ color:"white" }}>
               <Card.Title className="font-weight-bold">{recipe.title}</Card.Title>
               <Card.Text className="font-weight-lighter">{recipe.source}</Card.Text>
